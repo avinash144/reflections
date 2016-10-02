@@ -25,3 +25,14 @@ How do the diagrams help you visualize the branch structure?
 
 -> We can understand the path we have taken to make latest commit and also we 
 will know the parent of the commits.
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+-> Merging 2 branches involve comparison with original node where the branches 
+diverted. In doing so the content deleted in one of the branch will be deleted 
+after the merging and similarly any content added in one of the branch will 
+result to be added after merging.
+
+******----------*****
+      \********/
