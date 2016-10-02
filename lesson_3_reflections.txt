@@ -8,3 +8,15 @@ automatically stay up-to-date with your remote repository?
 
 -> Because we will make so many changes in local directory and causes 
 overloading the server
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+-> Fork is like clone but it is done in Github. This creates some side effects 
+like increasing number of forkes in the original repo.
+
+Clone is nothing but duplicating to local repo from either Github/another 
+location on local repo.
+
+Branch is used when we are doing some experimental changes or doing collbrative 
+work with others.
