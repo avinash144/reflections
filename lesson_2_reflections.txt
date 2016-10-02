@@ -36,3 +36,8 @@ result to be added after merging.
 
 ******----------*****
       \********/
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+-> Pros: It saves lot of time
+cons: if cannot distinguish the conflicts 
