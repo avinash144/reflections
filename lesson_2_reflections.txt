@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-> It creates a tracking hidden file and it will we used to track our files in
+the repositiory.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+->Repository is the snapshot of working directory which goes through called 
+staging. So using staging concept we can add small changes in the repo.
